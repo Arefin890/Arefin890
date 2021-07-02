@@ -1,0 +1,1623 @@
+@media(min-width:992px) and (max-width:1199.98px) {
+    .header_right ul {
+        line-height: 36px;
+        padding-right: 3px;
+        float: right;
+    }
+
+    #gyan_nav ul li a {
+        padding-right: 9px;
+        font-size: 15px;
+        padding-top: 40px;
+    }
+
+    #gyan_nav .get_start {
+        font-weight: 500;
+    }
+
+    /*    Banner part start */
+    .banner_items {
+        height: 654px;
+    }
+
+    .bnnr_text {
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .carousel_caption p {
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .carousel_caption a {
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    /*    About part */
+    .about_right {
+        margin-top: 0;
+        text-align: left;
+    }
+
+    .Know_More,
+    .Enroll {
+        margin-top: 0px;
+    }
+
+    /*    Our courses part */
+    .course_one .profile {
+        margin-left: 40px;
+        margin-top: 5px;
+    }
+
+    .course_one .pro_rating i {
+        margin-right: -10px;
+    }
+
+    .course_right_arrow {
+        right: 15px;
+        opacity: 0;
+    }
+
+    .course_left_arrow {
+        opacity: 0;
+        left: 15px;
+    }
+
+    /*    Our events part */
+
+    .event_img .event_img_text p,
+    .event_img_text2 p {
+        font-size: 16px;
+    }
+
+    .event_text h3 {
+        font-size: 18px;
+        margin-bottom: 4px;
+    }
+
+    .event_text p {
+        font-size: 12px;
+        padding-bottom: 6px;
+        letter-spacing: 0;
+        line-height: 20px;
+    }
+
+    .event_text .sem_title {
+        font-size: 12px;
+        padding-right: 0px;
+    }
+
+    .event_text a {
+        font-size: 15px;
+        display: inline-block;
+    }
+
+    /*    Testimomials part */
+    .card_body {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    .card_header .btn-link {
+        font-size: 18px;
+    }
+
+    /*    Our teachers part */
+    .teacher_text_hover ul {
+        top: -40%;
+    }
+
+    .teacher_text_hover ul li {
+        margin: 10px 6px;
+    }
+
+    .teacher_text_hover h3 {
+        padding-top: 25px;
+    }
+
+    .teacher_text_hover img {
+        bottom: -12%;
+    }
+
+    /*    Our blogs part */
+    .img_text > h3 a {
+        font-size: 17px;
+    }
+
+    .img_text a {
+        font-size: 13px;
+    }
+
+    .date p,
+    .veiw p,
+    .share p {
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+
+    .date p {
+        margin-left: 30px;
+    }
+
+    .blog_item2_icon {
+        top: 10px;
+    }
+
+    .blog_item2_btm_text {
+        left: 30px;
+        right: 20px;
+    }
+
+    .blog_item2_btm_text h4 {
+        font-size: 13px;
+    }
+
+    /*    contact part */
+    #contact_info {
+        padding-bottom: 50px;
+    }
+
+    .footer_text_left p {
+        letter-spacing: 0px;
+    }
+
+    /*    About part page */
+    #about_vedio .about_vedio_text p {
+        line-height: 18px;
+        padding-bottom: 30px;
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .about_vedio_text span {
+        display: none;
+    }
+
+    #about_vedio .full_text p {
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .vedio_about {
+        margin-top: 47px;
+    }
+
+    #about_vedio .button a {
+        margin-top: 20px;
+        margin-left: 43%;
+    }
+
+    #contact_info {
+        margin-top: 50px;
+    }
+
+    .address p {
+        letter-spacing: 0;
+        padding-bottom: 10px;
+    }
+
+    /*    Event part page */
+    #prv_btm .Previous {
+        padding: 7px 90px 7px 15px;
+    }
+
+    #prv_btm {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+}
+
+/* ======================
+=== Small desktop =======
+   ======================*/
+@media(min-width:768px) and (max-width:991.98px) {
+    .header_right ul {
+        margin-top: -40px;
+    }
+
+    .header_right ul li a {
+        font-size: 14px;
+    }
+
+    .header_left ul li {
+        font-size: 14px;
+        padding-right: 20px;
+    }
+
+    #gyan_nav ul li a {
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    #gyan_nav .get_start {
+        display: inline-block;
+        font-size: 15px;
+        font-weight: 500;
+        margin-top: 5px;
+        margin-left: 35%;
+    }
+
+    #custom_nav .logo {
+        padding: 5px;
+    }
+
+    /*    Banner part start */
+    .banner_items {
+        height: 515px;
+    }
+
+    .bnnr_text {
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translateY(0%);
+        padding-bottom: 120px;
+        padding-top: 44px;
+        text-align: center;
+    }
+
+    .banner_items .carousel_caption span {
+        font-size: 26px;
+    }
+
+    .carousel_caption h1 {
+        padding-bottom: 20px;
+        font-size: 40px;
+    }
+
+    .carousel_caption p {
+        font-size: 12px;
+        padding-right: 0px;
+        letter-spacing: 0;
+    }
+
+    .banner_left_arrow {
+        font-size: 23px;
+        top: 58%;
+        left: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .banner_right_arrow {
+        font-size: 23px;
+        top: 58%;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .carousel_caption a {
+        display: inline-block;
+        margin-top: 60px;
+        font-size: 20px;
+    }
+
+    #support .online h3 {
+        font-size: 20px;
+    }
+
+    /*    counter part */
+    .counter_item h3 {
+        font-size: 34px;
+    }
+
+    .counter_item h5 {
+        font-size: 20px;
+    }
+
+    /*    Our courses part */
+    .course_one .profile {
+        margin-left: 40px;
+    }
+
+    .pro_img img {
+        margin: auto;
+    }
+
+    .trainer_pro_details .pro_img,
+    .trainer_pro_details .profile,
+    .trainer_pro_details .pro_rating {
+        text-align: center;
+    }
+
+    .trainer_pro_details .profile {
+        margin-right: 25px;
+    }
+
+    .course_one .profile h5 {
+        display: block;
+    }
+
+    .trainer_pro_details .pro_rating {
+        margin-left: 20px;
+    }
+
+    .course_details {
+        text-align: center;
+    }
+
+    .course_one .course_details p {
+        padding-top: 0px;
+        letter-spacing: 0;
+    }
+
+    .course_one .course_footer p {
+        letter-spacing: 0;
+    }
+
+    .course_right_arrow {
+        right: 15px;
+        opacity: 0;
+    }
+
+    .course_left_arrow {
+        opacity: 0;
+        left: 15px;
+    }
+
+    /*    Our events part */
+    .event_text p {
+        padding-bottom: 33px;
+    }
+
+    .event_text a {
+        display: block;
+        margin-top: 33px;
+        height: 45px;
+        width: 106px;
+        padding-top: 10px;
+        padding-left: 18px;
+    }
+
+    .event_img .event_img_text p,
+    .event_img_text2 p {
+        font-size: 16px;
+    }
+
+    /*    Testimomials part */
+    .card_body {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    /*    testimonial part */
+    .teacher_text_hover ul {
+        top: -65%;
+    }
+
+    .teacher_text_hover img {
+        bottom: -8%;
+    }
+
+    /*    Our blog  part */
+    .blog_item {
+        margin-top: 40px;
+    }
+
+    .blog_item1 img {
+        margin-top: -165px;
+    }
+
+    .top_gal_icon {
+        top: -120px;
+    }
+
+    .top_gal2_icon {
+        top: 40px;
+    }
+
+    .img_text {
+        bottom: 80px;
+    }
+
+    .date p,
+    .veiw p,
+    .share p {
+        margin-left: 26px;
+        margin-bottom: 0px;
+        font-size: 13px;
+        letter-spacing: 0;
+        font-weight: 400;
+    }
+
+    .veiw p,
+    .share p {
+        padding-bottom: 20px;
+    }
+
+    .img_text a {
+        font-size: 20px;
+    }
+
+    .smal_gal {
+        margin: 15px 0px;
+    }
+
+    /*    contact part */
+    #contact_info {
+        padding-bottom: 50px;
+    }
+
+    .footer_text_left p {
+        letter-spacing: 0;
+    }
+
+    .footer_center h3 {
+        padding-top: 40px;
+        font-weight: 700;
+    }
+
+    .address p {
+        letter-spacing: 0px;
+    }
+
+    .address .address_title {
+        padding-bottom: 5px;
+    }
+
+    /*    back to top */
+    .back_to_top i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    /*    About part page */
+    #gyan_nav .get_start {
+        display: none;
+    }
+
+    #about_vedio .about_vedio_text {
+        margin-top: 70px;
+    }
+
+    #about_vedio .full_text {
+        padding: 0px 0px;
+    }
+
+    #about_vedio .full_text p {
+        line-height: 21px;
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .full_text2 .full_text {
+        margin-top: 70px;
+    }
+
+    #about_vedio .button a {
+        margin-top: 40px;
+        margin-left: 41%;
+    }
+
+    #contact_info {
+        margin-top: 50px;
+    }
+
+    #about_vedio .about_vedio_text {
+        margin-top: 47px;
+    }
+
+    #about_vedio .full_text {
+        padding: 0px 0px;
+    }
+
+    #about_vedio .full_text2 .full_text {
+        margin-top: 47px;
+    }
+
+    #about_vedio .full_text2 .full_text p {
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .button a {
+        margin-top: 30px;
+        margin-left: 40%;
+        margin-bottom: 60px;
+    }
+
+    /*    Event part page */
+    #contact_info {
+        margin-top: 0px;
+    }
+
+    #event_part {
+        padding-bottom: 40px;
+    }
+
+    /*    Event part page */
+    #prv_btm .Previous {
+        padding: 7px 90px 7px 15px;
+    }
+
+    #prv_btm {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    #prv_btm .Upcoming {
+        right: 30%;
+    }
+
+    /*    teachers part page */
+    .mr_top {
+        margin-top: 140px;
+        margin-bottom: 50px;
+    }
+
+
+
+}
+
+/* ======================
+=== tab =======
+   ======================*/
+@media(min-width:576px) and (max-width:767.98px) {
+
+    #gyan_nav ul li a {
+        padding-top: 20px;
+        margin-left: 15%;
+        text-align: center;
+    }
+
+    #custom_nav .logo {
+        padding: 0px;
+        padding-bottom: 5px;
+    }
+
+    #gyan_nav .get_start {
+        display: inline-block;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 10px;
+        margin-left: 35%;
+        margin-bottom: 10px;
+    }
+
+    /*    Banner part start */
+    .banner_items {
+        height: 535px;
+    }
+
+    .bnnr_text {
+        transform: translateY(0);
+        padding-bottom: 120px;
+        padding-top: 44px;
+        text-align: center;
+    }
+
+    .banner_items .carousel_caption span {
+        font-size: 26px;
+    }
+
+    .banner_right_arrow {
+        font-size: 23px;
+        top: 58%;
+        right: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        text-align: center;
+    }
+
+    .banner_left_arrow {
+        font-size: 23px;
+        top: 58%;
+        left: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        text-align: center;
+    }
+
+    .carousel_caption h1 {
+        padding-bottom: 20px;
+        font-size: 40px;
+    }
+
+    .carousel_caption p {
+        font-size: 12px;
+        letter-spacing: 0px;
+        padding-right: 0;
+    }
+
+    .carousel_caption a {
+        display: inline-block;
+        margin-top: 60px;
+        font-size: 20px;
+    }
+
+    /*    counter part */
+    .counter_item h3 {
+        font-size: 26px;
+    }
+
+    .counter_item h5 {
+        font-size: 15px;
+        padding-bottom: 6px;
+    }
+
+
+    /*    Our courses part */
+
+    .trainer_pro_details .pro_img,
+    .trainer_pro_details .profile,
+    .trainer_pro_details .pro_rating {
+        text-align: center;
+    }
+
+    .pro_img img {
+        margin: auto;
+    }
+
+    .trainer_pro_details .profile {
+        margin: auto;
+    }
+
+    .trainer_pro_details .pro_rating {
+        margin-left: 10px;
+    }
+
+    .course_one .profile h5 {
+        display: block;
+    }
+
+    .course_details {
+        text-align: center;
+    }
+
+    .course_one .course_details p {
+        padding-top: 0px;
+        letter-spacing: 0;
+    }
+
+    .course_one .course_footer p {
+        letter-spacing: 0;
+    }
+
+    .course_right_arrow {
+        right: 15px;
+        opacity: 0;
+    }
+
+    .course_left_arrow {
+        opacity: 0;
+        left: 15px;
+    }
+
+    /*    Our event  part */
+    .event_text h3 {
+        font-size: 20px;
+        margin-top: -5px;
+    }
+
+    .event_img .event_img_text p,
+    .event_img_text2 p {
+        font-size: 16px;
+    }
+
+    /*    Testimomials part */
+    .card_body {
+        padding-top: 5px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    /*    blog part */
+    .blog_item {
+        margin-top: 30px;
+    }
+
+    .blog_item1 {
+        margin-top: -130px;
+    }
+
+    .top_gal_icon {
+        top: 40px;
+    }
+
+    .img_text {
+        bottom: 75px;
+    }
+
+    .date p,
+    .veiw p,
+    .share p {
+        margin-bottom: 10px;
+    }
+
+    .veiw p,
+    .share p {
+        margin-left: 18px;
+    }
+
+    .smal_gal {
+        margin-bottom: 15px;
+    }
+
+    /*    Contact part */
+    #contact_info {
+        margin-top: 0px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .footer_text_left p {
+        letter-spacing: 0px;
+    }
+
+    .footer_center h3 {
+        font-size: 24px;
+        font-weight: 700px;
+        padding-bottom: 26px;
+    }
+
+    .text_menu1 {
+        text-align: left;
+        margin-left: 68px;
+    }
+
+    #contact_info .text_menu1 ul li a {
+        padding-bottom: 10px;
+    }
+
+    #contact_info .text_location ul li a i {
+        margin-left: 10px;
+    }
+
+    .address p {
+        padding-bottom: 20px;
+        letter-spacing: 0px;
+    }
+
+
+
+    #footer .footer1 p {
+        font-size: 12px;
+        letter-spacing: 0;
+    }
+
+    /*    back to top */
+    .back_to_top i {
+        right: 25px;
+        bottom: 58px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    /*    About part page */
+    #gyan_nav .get_start {
+        display: none;
+    }
+
+    #about_vedio .about_vedio_text {
+        margin-top: 70px;
+    }
+
+    #about_vedio .full_text {
+        padding: 0px 0px;
+    }
+
+    #about_vedio .full_text p {
+        line-height: 21px;
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .full_text2 .full_text {
+        margin-top: 70px;
+    }
+
+    #about_vedio .button a {
+        margin-top: 40px;
+        margin-left: 41%;
+    }
+
+    #contact_info {
+        margin-top: 50px;
+    }
+
+    #about_vedio .about_vedio_text {
+        margin-top: 47px;
+    }
+
+    #about_vedio .full_text {
+        padding: 0px 0px;
+    }
+
+    #about_vedio .full_text2 .full_text {
+        margin-top: 47px;
+    }
+
+    #about_vedio .full_text2 .full_text p {
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .button a {
+        margin-top: 30px;
+        margin-left: 40%;
+        margin-bottom: 60px;
+    }
+
+    /*    Event part page */
+    #contact_info {
+        margin-top: 0px;
+    }
+
+    #event_part {
+        padding-bottom: 40px;
+    }
+
+    /*    Eveent part page */
+    #prv_btm .Upcoming {
+        right: 20%;
+    }
+
+    /*    teachers part page */
+    .mr_top {
+        margin-top: 140px;
+        margin-bottom: 50px;
+    }
+}
+
+/* ======================
+=== Tab device =======
+   ======================*/
+@media(max-width:575.98px) {
+    .header_left {
+        display: none;
+    }
+
+    /*    Banner part */
+
+    .bnnr_text {
+        transform: translate(0);
+        padding-top: 44px;
+        padding-bottom: 120px;
+        text-align: center;
+    }
+
+    .banner_items .carousel_caption span {
+        font-size: 26px;
+    }
+
+    .carousel_caption h1 {
+        padding-bottom: 20px;
+        font-size: 40px;
+    }
+
+    .carousel_caption p {
+        font-size: 12px;
+        padding-right: 0px;
+        letter-spacing: 0px;
+    }
+
+    .banner_left_arrow {
+        font-size: 23px;
+        top: 58%;
+        left: 20px;
+        z-index: 99;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .banner_right_arrow {
+        font-size: 23px;
+        top: 58%;
+        right: 20px;
+        z-index: 99;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    /*    Support part */
+    #support .online {
+        padding-bottom: 15px;
+        margin: 0 15px 0 15px;
+    }
+
+    /*    Our courses part */
+
+    .trainer_pro_details .pro_img,
+    .trainer_pro_details .profile,
+    .trainer_pro_details .pro_rating {
+        text-align: center;
+    }
+
+    .pro_img img {
+        margin: auto;
+    }
+
+    .trainer_pro_details .profile {
+        margin: auto;
+    }
+
+    .trainer_pro_details .pro_rating {
+        margin-left: 10px;
+    }
+
+    .course_one .profile h5 {
+        display: block;
+    }
+
+    .course_details {
+        text-align: center;
+    }
+
+    .course_one .course_details p {
+        padding-top: 0px;
+        letter-spacing: 0;
+    }
+
+    .course_one .course_footer p {
+        letter-spacing: 0;
+    }
+
+    /*    Our events part */
+    #event_part {
+        padding-bottom: 50px;
+    }
+
+    /*    Testimomials part */
+
+    #testimonial {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    .card_body {
+        padding-top: 5px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    /*    Our teachers part */
+    #tescher_part .section_headding {
+        padding-top: 70px;
+        padding-bottom: 35px;
+    }
+
+    .section_headding p {
+        letter-spacing: 0;
+    }
+
+    /*    blog part */
+    .blog_item2 {
+        margin: auto;
+        width: 290px;
+        margin-bottom: 30px;
+    }
+
+    .blog_item2_text ul li a i {
+        height: 34px;
+        width: 34px;
+        line-height: 34px;
+    }
+
+    .blog_item2_icon {
+        top: 30px;
+    }
+
+    /*    Contact part */
+    #contact_info {
+        margin-top: 0px;
+    }
+
+
+
+}
+
+/* ======================
+=== Mobile Device =======
+   ======================*/
+@media(max-width:480px) {
+    #custom_nav .logo {
+        padding: 5px;
+    }
+
+    .navbar_nav {
+        margin-right: -10px;
+    }
+
+    #gyan_nav ul li .home {
+        margin-top: 10px;
+    }
+
+    #gyan_nav ul li a {
+        padding-top: 16px;
+        text-align: center;
+    }
+
+    #gyan_nav .get_start {
+        display: inline-block;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 20px;
+        margin-left: 33%;
+    }
+
+    /*    Banner part */
+    .banner_items {
+        height: 535px;
+    }
+
+    .banner_left_arrow {
+        top: 45%;
+    }
+
+    .banner_right_arrow {
+        top: 45%;
+    }
+
+    /*    counter part */
+    .counter_item {
+        margin: 20px 0px;
+    }
+
+    .counter_item h3 {
+        font-size: 26px;
+    }
+
+    .counter_item h5 {
+        font-size: 16px;
+        padding-bottom: 6px;
+    }
+
+    /*    Our courses part */
+    .trainer_pro_details .pro_img,
+    .trainer_pro_details .profile,
+    .trainer_pro_details .pro_rating {
+        text-align: center;
+    }
+
+    .pro_img img {
+        margin: auto;
+    }
+
+    .trainer_pro_details .profile {
+        margin: auto;
+    }
+
+    .trainer_pro_details .pro_rating {
+        margin-left: 10px;
+    }
+
+    .course_one .profile h5 {
+        display: block;
+    }
+
+    .course_details {
+        text-align: center;
+    }
+
+    .course_one .course_details p {
+        padding-top: 0px;
+        letter-spacing: 0;
+    }
+
+    .course_one .course_footer p {
+        letter-spacing: 0;
+    }
+
+    .course_left_arrow {
+        left: 15px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 23px;
+    }
+
+    .course_right_arrow {
+        right: 15px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 23px;
+    }
+
+    /*    Our events part */
+    .event_text h3 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .event_text a {
+        display: block;
+        height: 43px;
+        width: 106px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+    /*    Our teachers part */
+    .teacher_prof .teacher_text_hover {
+        top: 87%;
+    }
+
+    .teacher_text_hover h3 {
+        padding-top: 17px;
+    }
+
+    .teacher_text_hover img {
+        bottom: -4%;
+        right: 43%;
+    }
+
+    /*    blog part */
+    .blog_item {
+        margin-top: 30px;
+    }
+
+    .blog_item1 {
+        margin-top: -130px;
+    }
+
+    .blog_item {
+        position: relative;
+        text-align: center;
+    }
+
+    .gal_top {
+        position: absolute;
+        content: '';
+        background: rgba(0, 0, 0, 0.7);
+    }
+
+    .top_gal_icon ul li {
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    .top_gal_icon {
+        position: absolute;
+        top: 25%;
+        right: 25%;
+    }
+
+    .img_text {
+        bottom: 150px;
+        left: 51px;
+        right: 50px;
+    }
+
+    .img_text h3 {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .date p,
+    .veiw p,
+    .share p {
+        font-size: 10px;
+        margin-left: 0px;
+        letter-spacing: 0px;
+    }
+
+    .veiw p,
+    .share p {
+        margin-bottom: 70px;
+    }
+
+    /*    Contact part */
+    #contact_info {
+        margin-top: 0px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .footer_text_left p {
+        letter-spacing: 0px;
+    }
+
+    .footer_center h3 {
+        font-size: 24px;
+        font-weight: 700px;
+        padding-bottom: 26px;
+    }
+
+    .text_menu1 {
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    #contact_info .text_menu1 ul li a {
+        padding-bottom: 10px;
+    }
+
+    #contact_info .text_location ul li a i {
+        margin-left: 10px;
+    }
+
+    .address p {
+        padding-bottom: 10px;
+        letter-spacing: 0px;
+    }
+
+    #footer .footer1 p {
+        font-size: 12px;
+        letter-spacing: 0;
+    }
+
+    /*    back to top */
+    .back_to_top i {
+        right: 25px;
+        bottom: 58px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    /*    About part page */
+    #about_vedio .about_vedio_text {
+        margin-top: 47px;
+        padding-right: 15px;
+    }
+
+    #about_vedio .full_text {
+        padding: 0px 0px;
+        margin-left: 20px;
+        margin-right: 16px;
+    }
+
+    #about_vedio .full_text p {
+        letter-spacing: 0px;
+    }
+
+    #about_vedio .about_vedio::after {
+        width: 150px;
+    }
+
+    #about_vedio .about_vedio::before {
+        width: 150px;
+    }
+
+    #about_vedio .full_text p {
+        margin-top: 47px;
+    }
+
+    #about_vedio .full_text {
+        margin-right: 15px;
+    }
+
+    #about_vedio .button a {
+        margin-top: 50px;
+        margin-left: 34%;
+        margin-bottom: 50px;
+    }
+
+    #gyan_nav .get_start {
+        display: none;
+    }
+
+    /*    Event part page */
+    #contact_info {
+        margin-top: 0px;
+    }
+
+    #event_part {
+        padding-bottom: 40px;
+    }
+
+    /*    Event part page */
+
+    #prv_btm {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    #prv_btm .Upcoming {
+        right: 24%;
+        font-size: 14px;
+    }
+
+    #prv_btm .Previous {
+        font-size: 14px;
+    }
+
+    /*    teachers part page */
+    .mr_top {
+        margin-top: 140px;
+        margin-bottom: 50px;
+    }
+
+    .img_6 {
+        margin-top: 140px;
+    }
+
+    #tescher_part_page .teachers_prof .teachers_text {
+        left: 30%;
+    }
+
+    #tescher_part_page .teachers_text_hover {
+        position: absolute;
+        top: 95%;
+    }
+
+    /*    Registration form part  */
+    .sign_in h2 {
+        margin-top: 80px;
+    }
+    /*   login form */
+    .signup {
+	font-size: 16px;
+	text-align: left !important;
+}
+    .signup p {
+	font-size: 15px;
+}
+
+
+}
+
+/* ======================
+=== Small Mobile =======
+   ======================*/
+@media(max-width:320px) {
+    #custom_nav .logo {
+        padding: 5px;
+    }
+
+    #gyan_nav ul li a {
+        font-size: 15px;
+        font-weight: 400;
+        padding-top: 15px;
+        margin-left: 26px;
+        text-align: left;
+    }
+
+    #gyan_nav .get_start {
+        display: inline-block;
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+
+    /*    Banner part */
+    .banner_items {
+        height: 654px;
+    }
+
+    .carousel_caption .course {
+        display: inline-block;
+        margin-top: 25px;
+    }
+
+    .carousel_caption a {
+        padding: 12px 18px;
+    }
+
+    .banner_left_arrow {
+        top: 52%;
+    }
+
+    .banner_right_arrow {
+        top: 52%;
+    }
+
+    /*    About us part */
+    .slider_about::before {
+        width: 220px;
+    }
+
+    .slider_about::after {
+        width: 220px;
+        background: url(../Images/eventslidertopBorder.png);
+    }
+
+    /*    Counter part */
+    .counter_item {
+        margin: 20px 0px;
+    }
+
+    .counter_item h3 {
+        font-size: 26px;
+    }
+
+    .counter_item h5 {
+        font-size: 16px;
+        padding-bottom: 6px;
+    }
+
+    /*    Our courses part */
+    .trainer_pro_details .pro_img,
+    .trainer_pro_details .profile,
+    .trainer_pro_details .pro_rating {
+        text-align: center;
+    }
+
+    .pro_img img {
+        margin: auto;
+    }
+
+    .trainer_pro_details .profile {
+        margin: auto;
+    }
+
+    .trainer_pro_details .pro_rating {
+        margin-left: 10px;
+    }
+
+    .course_one .profile h5 {
+        display: block;
+    }
+
+    .course_details {
+        text-align: center;
+    }
+
+    .course_one .course_details p {
+        padding-top: 0px;
+        letter-spacing: 0;
+    }
+
+    .course_one .course_footer p {
+        letter-spacing: 0;
+        margin-left: 0;
+    }
+
+    .course_left_arrow {
+        font-size: 20px;
+        top: 45%;
+        left: 15px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+
+    .course_right_arrow {
+        font-size: 20px;
+        top: 45%;
+        right: 15px;
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+
+    /*    Our events part */
+    #event_part {
+        padding-bottom: 50px;
+    }
+
+    /*    Testimonial part */
+    #testimonial {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    .card_header .btn-link {
+        font-size: 16px;
+    }
+
+    .card_body {
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+    }
+
+    /*    Our teachers part  */
+    .teacher_text_hover ul {
+        top: -120%;
+    }
+
+    .teacher_text_hover h3 {
+        padding-top: 0px;
+        margin-top: -8px;
+    }
+
+    /*    blog part */
+    .blog_item {
+        margin-top: 30px;
+    }
+
+    .blog_item1 {
+        margin-top: -130px;
+    }
+
+    .top_gal_icon {
+        position: absolute;
+        top: 14%;
+        right: 15%;
+    }
+
+    .img_text {
+        bottom: 75px;
+        left: 30px;
+        right: 40px;
+    }
+
+    .date p,
+    .veiw p,
+    .share p {
+        margin-bottom: 10px;
+    }
+
+    .veiw p,
+    .share p {
+        margin-left: 18px;
+    }
+
+    #footer .footer1 p {
+        font-size: 12px;
+        letter-spacing: 0;
+    }
+
+    /*    back to top */
+    .back_to_top i {
+        right: 25px;
+        bottom: 58px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    /*    About part page */
+    #gyan_nav .get_start {
+        display: none;
+    }
+
+    /*    Event part page */
+    #contact_info {
+        margin-top: 0px;
+    }
+
+    #event_part {
+        padding-bottom: 40px;
+    }
+
+    /*    Event part page */
+    #prv_btm {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    #prv_btm .Upcoming {
+        font-size: 14px;
+        right: 10%;
+    }
+
+    #prv_btm .Previous {
+        font-size: 14px;
+    }
+
+    /*    teachers part page */
+    .img_6 {
+        margin-top: 140px;
+    }
+
+    #tescher_part_page .teachers_prof .teachers_text {
+        left: 22%;
+    }
+
+    /*    Registration form part  */
+    .sign_in h2 {
+        margin-top: 80px;
+    }
+
+    .sign_in p {
+        letter-spacing: 0;
+    }
+    .signup {
+	font-size: 15px;
+}
+/*   login form */
+    .signup {
+	font-size: 15px;
+	text-align: left !important;
+}
+    .signup p {
+	font-size: 15px;
+        letter-spacing: 0;
+}
+
+}
